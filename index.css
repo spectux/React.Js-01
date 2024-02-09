@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.super-over-league-app {
+  padding: 20px;
+  text-align: center;
+}
+
+.app-heading {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.team-cards-container {
+  display: flex;
+  justify-content: center;
+}
+
+.team-card {
+  width: 150px;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 0 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.team-logo {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+}
+
+.team-name {
+  margin-top: 10px;
+  font-size: 20px;
+}
